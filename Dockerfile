@@ -1,0 +1,1 @@
+FROM halcyonazure/lsky-pro-docker:latest
